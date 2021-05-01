@@ -1,0 +1,9 @@
+// Async
+export const ASYNC_ACTION_START = "ASYNC_ACTION_START";
+export const ASYNC_ACTION_FINISH = "ASYNC_ACTION_FINISH";
+export const ASYNC_ACTION_ERROR = "ASYNC_ACTION_ERROR";
+
+// Users
+export const FETCH_USERS = "FETCH_USERS";
+export const SET_CURRENT_USERS = "SET_CURRENT_USERS";
+
